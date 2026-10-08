@@ -1,0 +1,5 @@
+/data/
+/server.log
+/server-error.log
+/snapshot.log
+/snapshot-error.log
