@@ -3,3 +3,8 @@
 /server-error.log
 /snapshot.log
 /snapshot-error.log
+node_modules/
+.next/
+out/
+.vercel/
+
